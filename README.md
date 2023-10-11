@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <p align="center">📫 Reach me via <b><a href="mailto:doantuyetmai2000@gmail.com">doantuyetmai2000@gmail.com</a></b> or 
 <a href="https://www.linkedin.com/in/maidt/"><img src="https://img.shields.io/badge/-@maidt-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/maidt/" alt="LinkedIn Badge"></a></p>
 
+[![@chalalala's Holopin board](https://holopin.io/api/user/board?user=chalalala)](https://holopin.io/@chalalala)
+
 <h3 align="left">💻 My Tech Stack</h3>
 
 #### Languages

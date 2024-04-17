@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 [![An image of @chalalala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chalalala)](https://holopin.io/@chalalala)
 
+<!--
 <h3 align="left">💻 My Tech Stack</h3>
 
 #### Languages
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
 #### Others
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 
-<!-- # 📊GitHub Stats :
+# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=chalalala&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chalalala&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chalalala&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
